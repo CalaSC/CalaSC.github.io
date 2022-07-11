@@ -1,6 +1,100 @@
 ---
-title: "Claudia Solís Cote"
+title: "Claudia Ivonne Solís Cote"
+#author: Claudia Ivonne Solís Cote
+#date: "`r Sys.Date()`"
+#output:
+#  pagedown::html_resume:
+#    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
 ---
+### Ingeniera en Computación
 
-En construcción ...
+Interés en formar parte de una empresa a la que pueda ayudar a alcanzar sus 
+objetivos de calidad y servicio mediante el desarrollo,implementación y 
+mantenimiento de aplicaciones y bases de datos, así como el manejo de proyectos
+que la empresa requiera, de manera analítica y creativa, al mismo tiempo que me 
+permita incrementar mis conocimientos.
 
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> cala_sc@hotmail.com
+- <i class="fa fa-github"></i> [github.com/CalaSC](https://calasc.github.io/)
+- <i class="fa fa-phone"></i> 5555555555
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- ASP, PHP, MySQL, PL/SQL, Visual Basic .NET,
+- SQL Server 2005 y 2008 R2,
+- Crystal Reports XI y 2008,
+- Adobe Flash Professional CS5,
+- Dreamweaver CS5, Photoshop, CS3,
+- Diagramación en UML, MS Visio,
+- Web Services y procesamiento ETL,
+- Sharepoint, Powr BI, PowerApps, Power Automate
+- SCRUM, Agile
+- Bases de Datos
+- QlikView, QlikSense
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### IPN, Escuela Superior de Ingeniería Mecánica y Eléctrica
+
+Ingeniería en Computación
+
+2007
+
+
+
+Experiencia Laboral {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Líder de Desarrollo de Sowftare
+
+Productos Medix, S. A. de C. V.
+
+Febrero 2014 – Julio 2021
+
+- Administración y mantenimiento de Bases de Datos en SQL Server 2005 y 2008,
+- Diseño interfaces, análisis y desarrollo de aplicaciones para las áreas de 
+  la empresa, así como el mantenimiento y actualización de las mismas utilizando     
+  metodologías Agile y SCRUM,
+- Generación y mantenimiento de Reportes de KPIs en QlikView,QlikSense y PowerBI,
+- Configuración, desarrollo y soporte de aplicaciones en Sharepoint y PowerApps,
+- Documentación de las aplicaciones realizadas.
+- Supervisión de desarrollos realizados por proveedores y coordinación de la
+  implementación de dichos desarrollos.
+- Buscar nuevas herramientas de programación e implementación de Software de 
+  acuerdo con las necesidades de las áreas de la empresa.
+
+### Desarrollador Senior
+
+Distribuciones Sagaji, S.A. de C.V.
+
+Mayo 2013 - Enero 2014
+
+- Desarrollar aplicaciones de acuerdo a las necesidades de la
+empresa en php, así como diseñar la interfaz y proporcionar
+mantenimiento de las mismas.
+- Desarrollo de páginas web y mantenimiento de las existentes.
+- Bases de datos Oracle, MySQL.
+- Mantenimiento de reportes Oracle.
+- Coordinar proyecto de aplicación móvil para asesores de venta..
+
+### Coordinador Business Intelligence
+
+Grupo Nutrisa, S.A. de C.V.
+
+Agosto 2012 - Mayo 2013
+
+- Mantenimiento y actualización al sistema de Punto de Venta,
+- Desarrollo, mantenimiento e instalación de aplicaciones en VB .NET
+2008 y SQL 2008,
+- Desarrollo, mantenimiento e implementación de Web Services.
+- Atención a usuarios dentro de la empresa y en tiendas.
